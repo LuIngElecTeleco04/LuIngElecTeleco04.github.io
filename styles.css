@@ -83,7 +83,36 @@ footer {
 .social-links a:hover {
     color: #ffeb3b; /* Amarillo */
 }
+#redes {
+    background-color: #e3f2fd; /* Azul claro */
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 40px;
+}
 
+#redes h2 {
+    color: #0288d1; /* Azul */
+    border-bottom: 2px solid #0288d1;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+    color: #0288d1; /* Azul */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: #0277bd; /* Azul más oscuro */
+}
+
+.social-links i {
+    margin-right: 8px;
+}
 article {
     background-color: #f1f1f1;
     padding: 20px;
