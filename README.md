@@ -24,6 +24,7 @@
                 <li><a href="#articulos">Artículos</a></li>
                 <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
                 <li><a href="#contacto">Contacto</a></li>
+                <li><a href="#redes">Redes</a></li>
             </ul>
         </nav>
     </header>
@@ -76,6 +77,14 @@
                 <textarea id="message" name="message" rows="5" required></textarea>
                 <button type="submit">Enviar</button>
             </form>
+        </section>
+              <section id="redes">
+            <h2>Redes Sociales</h2>
+            <p>Síguenos en nuestras redes sociales para estar al tanto de las últimas novedades.</p>
+            <div class="social-links">
+                <a href="https://www.instagram.com/tu_perfil" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+                <a href="https://www.facebook.com/tu_perfil" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
+            </div>
         </section>
     </main>
     <footer>
